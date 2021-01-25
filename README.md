@@ -2,7 +2,7 @@
 
 ## To Do:
 <ul>
-<li>Fix sprites</li>
+<li><del>Fix sprites</del></li>
 <li>Add map</li>
 <li>add npcs</li>
 <li>make textboxes</li>
